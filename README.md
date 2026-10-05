@@ -4,7 +4,7 @@
 
 I am a BCA graduate interested in technology, data analysis, and software development. I enjoy learning new tools, working with data, and building practical projects to strengthen my technical skills.
 
-## 🛠️ Skills
+##  Skills
 
 - **Programming:** Python, SQL
 - **Data & Analytics:** Microsoft Excel, Power BI, DAX
@@ -13,22 +13,11 @@ I am a BCA graduate interested in technology, data analysis, and software develo
 - **Core Concepts:** DBMS, Data Structures & Algorithms, OOP, Computer Networks, Operating Systems, Software Engineering
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
-## 📊 Featured Project
 
-### Student Performance Analysis Dashboard
-
-An interactive student performance dashboard created using Microsoft Excel.
-
-- Analyzes academic performance and student-related factors
-- Uses Excel formulas, slicers, charts, and conditional formatting
-- Includes performance, attendance-related, study-time, and other student data analysis
-
-🔗 [View Project](https://github.com/vanshita2309/student-analysis-dashboard)
-
-## 🌱 Currently
+##  Currently
 
 - Improving my practical programming and data analysis skills
-- Building projects to strengthen my GitHub portfolio
+- Building projects 
 - Preparing for entry-level IT and apprenticeship opportunities
 
 ## 📫 Connect With Me
